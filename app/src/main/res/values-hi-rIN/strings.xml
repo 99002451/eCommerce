@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ई-कॉमर्स</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="a_smart_way_to_get_your_product">आपका उत्पाद प्राप्त करने का एक स्मार्ट तरीका</string>
+    <string name="already_have_an_account_login">पहले से ही एक खाता है? लॉग इन करें</string>
+    <string name="join_now">शामिल हों</string>
+    <string name="phone_number">फ़ोन नंबर</string>
+    <string name="password">पासवर्ड</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="remember_me">मुझे याद रखना</string>
+    <string name="forget_password">पासवर्ड भूल गए</string>
+    <string name="i_am_an_admin">मैं एक व्यवस्थापक हूँ</string>
+    <string name="i_am_not_an_admin">मैं एक व्यवस्थापक नहीं हूँ</string>
+    <string name="name">नाम</string>
+    <string name="create_account">खाता बनाएं</string>
+</resources>
