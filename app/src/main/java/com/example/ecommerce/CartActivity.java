@@ -63,7 +63,7 @@ public class CartActivity extends AppCompatActivity
 
                 Intent intent = new Intent(CartActivity.this, ConfirmFinalOrderActivity.class);
                 intent.putExtra("Total Price", String.valueOf(overTotalPrice));
-                startActivity(intent);
+                startActivity(intent) ;
 
             }
 
